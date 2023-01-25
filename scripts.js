@@ -48,7 +48,3 @@ ethBtn.addEventListener('click', () => {
     btnContainer.className = 'button-container-eth'
     fetchData('ETH')
  })
-
- changeBtn.addEventListener('click', e => {
-
- })
